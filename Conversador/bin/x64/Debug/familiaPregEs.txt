@@ -1,0 +1,25 @@
+¿Cuantos hermanos tienes?
+¿Cual es el nombre de tu hermana?
+¿Como se llaman tus padres?
+¿Como se llaman tus abuelos?
+¿Cuantos años tienes?
+¿Cuantos años tiene tu hermana?
+¿En que año naciste?
+de que pais vienes
+¿cual es tu nacionalidad?
+¿Tu eres mexicano?
+Eres colombiano
+¿estas casado?
+¿Estas casado?
+¿Tienes novio, cómo se llama?
+¿Tienes novia, cómo se llama?
+¿Como se llaman tus hermanos?
+¿Como se llama tu primo?
+¿Como se llama tu prima?
+¿Tienes bisabuelos?
+¿Como se llama tu abuelo?
+¿Como se llama tu abuela?
+¿Que edad tiene tu abuelo?
+¿Cuantos años tiene tu abuela?
+¿de donde es tu abuelo?
+¿De donde es tu abuela?
